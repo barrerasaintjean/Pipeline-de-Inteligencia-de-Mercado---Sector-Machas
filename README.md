@@ -10,7 +10,7 @@ Yo ya sabia que gente ocupaba bots para scar informacion de la web , asi que dec
 ### 🛠️ ¿Qué hice y por qué usé estas herramientas?
 
 1. **n8n (El Automatizador):** Es el corazón del proyecto. En lugar de programar cada conexión desde cero, usé n8n para conectar la API de Google Maps con mi base de datos. Fue un desafío porque tuve que aprender a manejar errores de "campos vacíos" (locales sin web) y filtrar duplicados. Primero se intento con python pero las webs me bloqeuaban muy facil y no lograba sacar la informacion.
-2. **PostgreSQL (La Memoria):** Aquí es donde pongo en práctica lo que estudio. Usé una base de datos relacional para guardar todo de forma estructurada. Aprendí a usar `Unique Constraints` para que la base de datos misma rechace datos repetidos si el robot falla.
+2. **PostgreSQL (La Memoria):** Aquí es donde pongo en práctica lo que estudio. Usé una base de datos relacional para guardar todo de forma estructurada. Aprendí a  cerar tablas simples y aplique Unique Constraints para que la base de datos misma rechace datos repetidos si el robot falla.
 3. **Docker (Mi maleta técnica):** Instalé Postgres a través de Docker porque no quería ensuciar mi PC con instalaciones pesadas. Lo mejor es que si cambio de computador, simplemente me llevo mis archivos de configuración, lo encontre interesante por si alguna vez quiero crear una abse de datos con una raspberry.
 4. **DBeaver (La Ventana):** Es mi herramienta para hablar con los datos. Aquí es donde ejecuto mis queries de SQL para limpiar la tabla y verificar que todo entró bien.
 
