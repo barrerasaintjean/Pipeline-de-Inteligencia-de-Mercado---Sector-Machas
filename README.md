@@ -1,7 +1,7 @@
 # 🐟 Proyecto: De la necesidad de vender al Análisis de Datos
 
 ### 📖 La Historia 
-Todo empezó con una pregunta difícil: **¿Cómo salgo a vender si no sé por dónde empezar?** Actualmente estoy estudiando para ser **Analista de Datos** y me encontré con dos problemas al mismo tiempo. Primero, necesitaba una base de datos real de posibles clientes (pescaderías en Santiago) para salir mas seguro o generar mensajes autoamticos par ahacer el contacto. Segundo, estaba cansado de practicar SQL con tablas de ejemplo "de juguete"; quería datos reales, vivos y extraídos por mí mismo.
+Todo empezó con una pregunta difícil: **¿Cómo salgo a vender si no sé por dónde empezar?** Actualmente estoy estudiando para ser **Analista de Datos** y me encontré con dos problemas al mismo tiempo. Primero, necesitaba una base de datos real de posibles clientes (pescaderías en Santiago) para salir mas confiado sabiendo como nos poscicionamso ante la competencia o tambien pensaba en generar mensajes automaticos par haacer el contacto. Segundo, estaba cansado de practicar SQL con tablas de ejemplo "de juguete"; quería datos reales, vivos y extraídos por mí mismo.
 
 Yo ya sabia que gente ocupaba bots para scar informacion de la web , asi que decidi aprender con ayuda de la IA.
 
